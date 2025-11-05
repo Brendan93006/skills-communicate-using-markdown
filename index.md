@@ -5,4 +5,7 @@
 ``` python
 print("Hello, World")
 ```
+- [ ] Apples
+- [ ] Bananas
+- [ ] Milk
 
